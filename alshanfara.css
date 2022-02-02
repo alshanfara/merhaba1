@@ -707,7 +707,7 @@ ul.nav.nav-tabs>li.active>a {
     border-color: #fff;
     border-left-style: inherit;
     border-right-style: ridge;
-    background: #6b2bf1!important;
+    background: #008faf!important;
 }
 
 ul.nav.nav-tabs>li {
@@ -774,7 +774,7 @@ ul.nav.nav-tabs {
     margin-top: 19px!important;
     border-left: 2px solid #ababab;
     border-right: 2px solid #ababab;
-    background-image: -webkit-linear-gradient( 45deg ,#692df0 25%,#1679bd 25%,#0189b4 50%,#b2cfe4 50%,#b2cfe4 75%,#b2cfe4 75%,#b2cfe4)!important;
+    background: #008faf!important;
 }
 
 div#l1 {
@@ -954,10 +954,11 @@ a#asim7 {
     margin-left: -6px;
     border-radius: 0;
     background-repeat: repeat;
-    border-top: 4px solid #6b2bf1 !important;
+    border-top: 4px solid #008faf !important;
     -webkit-transform: matrix(1,0,0,1,0,-18)!important;
     background: #008faf!important;
-    0FONT-VARIANT: JIS04;
+    0FONT-
+    VARIANT: JIS04;
 }
 
 a#asim7,.ae.fa.label.label-primary.fa-user,div#tlogins button.btn.btn-primary,#as43,ul.nav.nav-tabs>li.active>a,ul.nav.nav-tabs,ul.nav.nav-tabs>li>a,.label-danger,.broadcasters,a.btn.minix.fa.fa-comment,button.btn,.label-primary,.btn-primary,.bg-primary,.label-primary:hover,.btn-primary:hover,.btn-primary:focus,label.fl.label.loginstat {
